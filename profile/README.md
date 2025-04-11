@@ -9,4 +9,36 @@ Welcome to RCS Trucking - A Virtual Trucking Company for TruckersMP!
 
 ## Quick Links
 
-🌐 [Official Website](https://rcsvtc.co.uk/)
+<div style="display: flex; align-items: center;">
+  <img src="https://www.google.com/s2/favicons?sz=32&domain=rcsvtc.co.uk" alt="Logo" style="margin-right: 10px;">  
+  <a href="https://rcsvtc.co.uk/" style="font-weight: bold; text-align: left;">Official Website</a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.google.com/s2/favicons?sz=32&domain=truckersmp.com" alt="Logo" style="margin-right: 10px;">  
+  <a href="https://truckersmp.com/vtc/60956" style="font-weight: bold; text-align: left;">TruckersMP</a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.google.com/s2/favicons?sz=32&domain=truckyapp.com" alt="Logo" style="margin-right: 10px;">  
+  <a href="https://hub.truckyapp.com/vtc/rcs-trucking" style="font-weight: bold; text-align: left;">Trucky</a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.google.com/s2/favicons?sz=32&domain=instagram.com" alt="Logo" style="margin-right: 10px;">  
+  <a href="https://www.instagram.com/rcs.trucking/" style="font-weight: bold; text-align: left;">Instagram</a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.google.com/s2/favicons?sz=32&domain=tiktok.com" alt="Logo" style="margin-right: 10px;">  
+  <a href="https://www.tiktok.com/@rcs.trucking" style="font-weight: bold; text-align: left;">TikTok</a>
+</div>
+
