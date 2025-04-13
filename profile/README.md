@@ -10,7 +10,7 @@ Welcome to RCS Trucking - A Virtual Trucking Company for TruckersMP!
 ## Quick Links
 
 <div style="display: flex; align-items: center;">
-  <img src="https://www.google.com/s2/favicons?sz=32&domain=rcsvtc.co.uk" alt="Logo" style="margin-right: 10px;">  
+  <img src="https://raw.githubusercontent.com/RCS-Trucking/RCS-Trucking/refs/heads/main/favicon.png" alt="Logo" style="margin-right: 10px; width: 32px; height: 32px;">  
   <a href="https://rcsvtc.co.uk/" style="font-weight: bold; text-align: left;">Official Website</a>
 </div>
 
